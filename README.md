@@ -1,4 +1,5 @@
-1)What is Flutter?
+[1)What is Flutter?
+
 Flutter is an open-source framework by Google for building beautiful, natively compiled, multi-platform applications from a single codebase.
 Flutter is not a language; it is an SDK. Flutter apps use the Dart programming language for creating an app. The first alpha version of Flutter was released in May 2017.
 
@@ -878,3 +879,4 @@ Stream asynchronousNaturalsTo(n) async* {
   while (k < n) yield k++;
 }
 When the yield statement executes, it adds the result of evaluating its expression to the stream. It doesn’t necessarily suspend (though in the current implementations it does).
+](https://shirsh94.medium.com/top-100-flutter-interview-questions-efc4a96eb22c)
